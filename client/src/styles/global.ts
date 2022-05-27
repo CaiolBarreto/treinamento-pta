@@ -22,7 +22,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: 'Poppins', sans-serif;
-    background: ${(props) => props.theme.colors.background};
+    background: ${(props) => props.theme.colors.background} !important;
     display: flex;
     justify-content: center;
     align-items: center;
