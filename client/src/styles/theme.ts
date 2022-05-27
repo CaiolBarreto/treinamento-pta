@@ -1,7 +1,9 @@
 export const theme = {
     colors: {
-      background: '#292929',
-      primary: '#e1e1e6',
-      text: '#e1e1e6',
+      background: '#191816',
+      loginBackground: '#24221F',
+      title: '#D4CCB6',
+      text: '#AFB6C2',
+      yellow: '#FFC632'
     },
   };
